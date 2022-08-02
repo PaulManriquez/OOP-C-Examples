@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1659311623 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa19_polimorfismo\main.cpp
+	<iostream>
+	"Poligono.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1659310589 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa19_polimorfismo\poligono.h
+	<iostream>
+
+1659309985 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa19_polimorfismo\rectangulo.h
+	<iostream>
+	"Poligono.h"
+
+1659311613 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa19_polimorfismo\triangulo.h
+	<iostream>
+	"Poligono.h"
+	<math.h>
+

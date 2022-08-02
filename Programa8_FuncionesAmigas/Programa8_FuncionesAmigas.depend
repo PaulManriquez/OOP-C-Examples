@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1659121091 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa8_funcionesamigas\main.cpp
+	<iostream>
+	"Personaje.h"
+
+1659121091 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa8_funcionesamigas\personaje.h
+	<iostream>
+

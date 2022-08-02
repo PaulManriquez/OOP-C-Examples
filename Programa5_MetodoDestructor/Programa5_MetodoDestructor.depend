@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1659038610 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa5_metododestructor\main.cpp
+	<iostream>
+	"Perro.h"
+
+1659038645 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa5_metododestructor\perro.cpp
+	<iostream>
+	"Perro.h"
+
+1659038292 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa5_metododestructor\perro.h
+	<iostream>
+

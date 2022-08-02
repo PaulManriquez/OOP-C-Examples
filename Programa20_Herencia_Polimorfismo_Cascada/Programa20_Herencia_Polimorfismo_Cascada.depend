@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1659375772 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa20_herencia_polimorfismo_cascada\main.cpp
+	<iostream>
+	"GatoDomestico.h"
+	"Felino.h"
+
+1659375544 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa20_herencia_polimorfismo_cascada\gatodomestico.h
+	<iostream>
+	"Felino.h"
+
+1659375723 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa20_herencia_polimorfismo_cascada\felino.h
+	<iostream>
+	"Mamifero.h"
+
+1659375533 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa20_herencia_polimorfismo_cascada\mamifero.h
+	<iostream>
+

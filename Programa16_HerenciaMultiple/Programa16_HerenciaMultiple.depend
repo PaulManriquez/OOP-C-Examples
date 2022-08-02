@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659214974 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa16_herenciamultiple\main.cpp
+	<iostream>
+	"HidroAvion.h"
+
+1659214783 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa16_herenciamultiple\hidroavion.h
+	<iostream>
+	"Barco.h"
+	"Avion.h"
+
+1659213881 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa16_herenciamultiple\barco.h
+	<iostream>
+
+1659214171 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa16_herenciamultiple\avion.h
+	<iostream>
+

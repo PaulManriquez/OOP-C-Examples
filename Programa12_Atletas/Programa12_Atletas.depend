@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1659142695 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa12_atletas\main.cpp
+	<iostream>
+	"Atletla.h"
+
+1659142430 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa12_atletas\atletla.cpp
+	<iostream>
+	"Atletla.h"
+
+1659142430 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa12_atletas\atletla.h
+	<iostream>
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1659307891 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa18_claseabstracta_virtual\main.cpp
+	<iostream>
+	"Planta.h"
+	"AnimalCarniboro.h"
+	"AnimalHerbivoro.h"
+
+1659306426 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa18_claseabstracta_virtual\planta.h
+	<iostream>
+	"SerVivo.h"
+
+1659307421 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa18_claseabstracta_virtual\servivo.h
+	<iostream>
+
+1659306989 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa18_claseabstracta_virtual\animalcarniboro.h
+	<iostream>
+	"Animal.h"
+
+1659307811 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa18_claseabstracta_virtual\animal.h
+	<iostream>
+	"SerVivo.h"
+
+1659307181 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa18_claseabstracta_virtual\animalherbivoro.h
+	<iostream>
+	"Animal.h"
+

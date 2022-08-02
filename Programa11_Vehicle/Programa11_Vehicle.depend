@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1659131535 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa11_vehicle\main.cpp
+	<iostream>
+	"Vehicle.h"
+
+1659131134 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa11_vehicle\vehicle.cpp
+	<iostream>
+	"Vehicle.h"
+
+1659131203 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa11_vehicle\vehicle.h
+	<iostream>
+

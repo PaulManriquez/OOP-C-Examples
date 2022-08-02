@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1659123882 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa9_cuadrilatero\main.cpp
+	<iostream>
+	"Cuadrilater.h"
+
+1659123811 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa9_cuadrilatero\cuadrilater.h
+	<iostream>
+

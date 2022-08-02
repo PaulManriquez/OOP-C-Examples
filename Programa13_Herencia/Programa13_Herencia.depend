@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659149597 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa13_herencia\main.cpp
+	<iostream>
+	"Triangulo.h"
+
+1659149716 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa13_herencia\triangulo.h
+	<iostream>
+	"Figura.h"
+	<math.h>
+
+1659148376 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa13_herencia\figura.h
+	<iostream>
+

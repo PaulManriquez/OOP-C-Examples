@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659033058 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa2_diaanio\main.cpp
+	<iostream>
+	"DiaAnio.h"
+
+1659033046 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa2_diaanio\diaanio.cpp
+	<iostream>
+	"DiaAnio.h"
+
+1659031739 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa2_diaanio\diaanio.h
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1659413698 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa22_persona\main.cpp
+	<iostream>
+	<conio.h>
+	"Persona.h"
+	"Futbolista.h"
+	"Entrenador.h"
+	"Medico.h"
+
+1659408720 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa22_persona\persona.h
+	<iostream>
+
+1659409155 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa22_persona\futbolista.h
+	<iostream>
+	"Persona.h"
+
+1659409548 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa22_persona\entrenador.h
+	<iostream>
+	"Persona.h"
+
+1659409880 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa22_persona\medico.h
+	<iostream>
+	"Persona.h"
+

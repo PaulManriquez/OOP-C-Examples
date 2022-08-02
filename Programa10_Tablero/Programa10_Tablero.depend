@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659127167 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa10_tablero\main.cpp
+	<iostream>
+	"Tablero.h"
+	<conio.h>
+
+1659125756 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa10_tablero\tablero.cpp
+	<iostream>
+	"Tablero.h"
+
+1659125580 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa10_tablero\tablero.h
+	<iostream>
+

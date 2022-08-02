@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1659119713 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa7_estatic\main.cpp
+	<iostream>
+	"Estatico.h"
+
+1659119339 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa7_estatic\estatico.cpp
+	<iostream>
+	"Estatico.h"
+
+1659119620 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa7_estatic\estatico.h
+	<iostream>
+

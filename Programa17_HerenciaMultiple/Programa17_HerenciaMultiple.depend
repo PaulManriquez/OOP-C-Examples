@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659217534 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa17_herenciamultiple\main.cpp
+	<iostream>
+	"ClaseDerivada.h"
+
+1659218134 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa17_herenciamultiple\clasederivada.h
+	<iostream>
+	"ClaseBase1.h"
+	"ClaseBase2.h"
+
+1659216791 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa17_herenciamultiple\clasebase1.h
+	<iostream>
+
+1659216856 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa17_herenciamultiple\clasebase2.h
+	<iostream>
+

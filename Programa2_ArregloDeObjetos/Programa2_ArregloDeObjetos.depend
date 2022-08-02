@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659037276 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa2_arreglodeobjetos\main.cpp
+	<iostream>
+	"Alumno.h"
+
+1659036642 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa2_arreglodeobjetos\alumno.cpp
+	<iostream>
+	"Alumno.h"
+
+1659036343 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa2_arreglodeobjetos\alumno.h
+

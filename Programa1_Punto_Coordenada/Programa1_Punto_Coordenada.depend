@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1659029821 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa1_punto_coordenada\main.cpp
+	<iostream>
+	"Punto.h"
+
+1659029291 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa1_punto_coordenada\punto.cpp
+	"Punto.h"
+
+1659028887 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa1_punto_coordenada\punto.h
+

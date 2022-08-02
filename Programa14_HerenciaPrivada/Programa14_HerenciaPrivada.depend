@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1659203787 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa14_herenciaprivada\main.cpp
+	<iostream>
+	"Turismo.h"
+	"Deportivo.h"
+	"Furgoneta.h"
+
+1659202285 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa14_herenciaprivada\turismo.h
+	<iostream>
+	"Vehiculo.h"
+
+1659202546 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa14_herenciaprivada\vehiculo.h
+	<iostream>
+
+1659202285 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa14_herenciaprivada\deportivo.h
+	<iostream>
+	"Vehiculo.h"
+
+1659203787 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa14_herenciaprivada\furgoneta.h
+	<iostream>
+	"Vehiculo.h"
+

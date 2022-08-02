@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659041543 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa6_expediente\main.cpp
+	<iostream>
+	"Estudiante.h"
+
+1659041723 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa6_expediente\estudiante.h
+	<iostream>
+	"Expediente.h"
+	"Direccion.h"
+
+1659040266 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa6_expediente\expediente.h
+	<iostream>
+
+1659040302 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa6_expediente\direccion.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1659213160 source:c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa15_constructoresydestruc_herencias\main.cpp
+	<iostream>
+	"ClaseDerivada.h"
+
+1659213062 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa15_constructoresydestruc_herencias\clasederivada.h
+	<iostream>
+	"ClaseBase.h"
+
+1659213168 c:\users\paulm\desktop\programacionorientadaobjetosc++\oop\programa15_constructoresydestruc_herencias\clasebase.h
+	<iostream>
+
